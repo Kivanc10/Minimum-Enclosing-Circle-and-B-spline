@@ -21,7 +21,7 @@ We will make process with depend these equation in code section when given numbe
 ## B-spline curves definition
 B-spline curves is a curve that usually used for Computer Assistance Design (CAD) applications , definite for one group data points , used for numbers derivate and integration.it usually appeares a cubic form. B-spline curves do not pass through data points so it looks like smallest square curves.Purpose is with the b-spline curves that drawing b-spline lines inside of circle and the line have to pass through the closest place from the points.
 
-#### First image is general expression image belong to b-splines.You show that this line has several control points ,we can say that thanks to control points lines changes it's way .Second image at the below is my MEC project's output . There is a circle that enclosing whole given points we can say that there is a minimum enclosing circle also inside of the circle a line have drowen among whole points , and it passed through closest place from the points.
+#### First image is general expression image belong to b-splines.You show that this line has several control points ,we can say that thanks to control points lines changes it's way .`Second image at the below is my MEC project's output `. There is a circle that enclosing whole given points we can say that there is a minimum enclosing circle also inside of the circle a line have drowen among whole points , and it passed through closest place from the points.
 
 |<img src="/images/b_spline.png" width="450" height="450"> |<img src="/images/lab_1.png" width="450" height="450">|
 |----------------------------------------------------------|------------------------------------------------------|
