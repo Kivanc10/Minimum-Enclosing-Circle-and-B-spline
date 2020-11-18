@@ -28,6 +28,7 @@ B-spline curves is a curve that usually used for Computer Assistance Design (CAD
 
 ## Needed for run program
 
-`You should just enter points with one space between X and Y coordinates in 'points.txt' inside of folder such as -5 6`
-`After that you should run the program and enter number of points you entered inside of txt file`
+* `You should just enter points with one space between X and Y coordinates in 'points.txt' inside of folder such as -5 6`
+
+* `After that you should run the program and enter number of points you entered inside of txt file`
 
