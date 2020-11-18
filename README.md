@@ -26,6 +26,9 @@ B-spline curves is a curve that usually used for Computer Assistance Design (CAD
 |<img src="/images/b_spline.png" width="450" height="450"> |<img src="/images/lab_1.png" width="450" height="450">|
 |----------------------------------------------------------|------------------------------------------------------|
 
+## List of library that use for interface
+* `Graphics.h`
+
 ## Needed for run program
 
 * `You should just enter points with one space between X and Y coordinates in 'points.txt' inside of folder such as -5 6`
