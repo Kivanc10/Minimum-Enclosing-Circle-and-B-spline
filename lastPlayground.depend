@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1605516467 source:d:\projects\graphic.h projects\lastplayground\main.cpp
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-	<graphics.h>
-
